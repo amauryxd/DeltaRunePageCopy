@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+.navcolor1{
+    background-color: #342db5;
+}
+.fontbit{
+    font-family: 'Silkscreen', sans-serif;
+}
+.bgcolor{
+    background-color: black;
+}
+.product-holder {
+    position: relative;
+    display: block;
+}
+
+.plus-image {
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: -25px;
+}
