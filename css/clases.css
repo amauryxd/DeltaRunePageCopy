@@ -21,3 +21,23 @@
     margin-top: -25px;
     margin-left: -25px;
 }
+
+.imgspam img{
+    width: 200px;
+    height: auto;
+}
+
+.coloryel{
+    color: #F9FF10;
+}
+.colored{
+    color: #FF2020;
+}
+.fondoxd{
+    width: 750px;
+    height: auto;
+}
+.butD{
+    width: 200px;
+    height: auto;
+}
